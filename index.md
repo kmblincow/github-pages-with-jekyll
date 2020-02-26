@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Kayla's Super Dope Blog
 
-I'm glad you are here. I plan to talk about ...
+Thanks for visiting! This blog is going to be coolest thing you see today. Obvi.
