@@ -1,3 +1,8 @@
+---
+title: "MY FIRST EVER GITHUB BLOG POST"
+date: 2020-02-26
+---
+
 Hi!
 
 This is my first ever blog post using this tutorial!
